@@ -28,4 +28,6 @@ L'échelle des décibels est une des notions universelles qui permet de mesurer 
 
   ![image](https://github.com/ghita04/Le-son/assets/93718412/1acc7a74-4952-4888-8768-c3ced49ee286)
 
+Source : [Tout sur l'isolation](https://www.toutsurlisolation.com/quest-ce-que-lechelle-des-decibels#:~:text=de%2060%20%C3%A0%2080%20dB,%2C%20biblioth%C3%A8que%2C%20appartement%20calme).)
+
 Les différentes catégories sontr divisées telles un feu rouge. En effet, ce qui est vert est ok. Ce qui est jaune doit être mesuré et on doit être plus prudent. Et, finalement, ce qui est rouge est dangereux et doit être évité. 
