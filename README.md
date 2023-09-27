@@ -3,6 +3,7 @@
 Le son est une vibration mécanique d'un fluide qui se propage sous forme d'ondes grâce à la déformation du fluide. L'intensité du son est mesuré avec ce que l'on appelle des **décibels** ou, plus communément appelés, des **dBs**. L'outil qui est utilisé pour mesurer le son s'appelle un **sonomètre** et cela ressemble à ça : 
 
 ![image](https://github.com/ghita04/Le-son/assets/93718412/c06ec7ff-bef8-4df2-a72e-fa23e5422eb0)
+Source : [Énergie](https://energieplus-lesite.be/mesures/confort7/mesurer-le-niveau-de-bruit/#:~:text=Le%20sonom%C3%A8tre,-La%20mesure%20du&text=Si%20l'on%20souhaite%20obtenir,du%20bruit%2C%20affich%C3%A9%20en%20dB.)
 
 Pour ce qui est de la fréquence du son, elle est mesurée en **hertz** et l'outil qui est utilisé pour le faire s'appelle un **fréquencemètre** comme celui-ci :
 
