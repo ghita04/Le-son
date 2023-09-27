@@ -10,6 +10,8 @@ Pour ce qui est de la fréquence du son, elle est mesurée en **hertz** et l'out
 
 ![image](https://github.com/ghita04/Le-son/assets/93718412/372b31e1-49db-4533-bb84-586b180023cc)
 
+Source : [Wikipédia - Fréquencemètre](https://fr.wikipedia.org/wiki/Fr%C3%A9quencem%C3%A8tre#:~:text=Un%20fr%C3%A9quencem%C3%A8tre%20est%20un%20instrument,transition%20caract%C3%A9ristique%20du%20signal%20entrant.)
+
 Ces appareils sont souvent utilisés par les personnes qui sont étudie **l'acoustique** ou, autrement dit, l'étude du son en tant que tel. 
 
 # L'échelle des décibels
