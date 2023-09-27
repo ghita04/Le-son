@@ -31,3 +31,7 @@ L'échelle des décibels est une des notions universelles qui permet de mesurer 
 Source : [Tout sur l'isolation](https://www.toutsurlisolation.com/quest-ce-que-lechelle-des-decibels#:~:text=de%2060%20%C3%A0%2080%20dB,%2C%20biblioth%C3%A8que%2C%20appartement%20calme)
 
 Les différentes catégories sontr divisées telles un feu rouge. En effet, ce qui est vert est ok. Ce qui est jaune doit être mesuré et on doit être plus prudent. Et, finalement, ce qui est rouge est dangereux et doit être évité. 
+
+## Attention ! Les dangers du son
+
+Au delà de la catégorie rouge, il existe des risques encore plus grands que le seuil de la douleur. En effet, lorsque l'intensité du son est au-dessus de 140 dB, une perte d'audition est très fortement probable. 
