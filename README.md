@@ -40,3 +40,14 @@ Au delà de la catégorie rouge, il existe des risques encore plus grands que le
 
 - L'humain peut entendre des sons ayant une fréquence allant de 20 Hz et 20 kHz (20 000 Hz)
 - Les animaux tels que le chat et le chien peuvent entendre des sons ayant une fréquence allant de 20 Hertz et 60 000 Hertz. Ils peuvent donc entendre des ultrasons qui sont inaudibles pour les humains.
+
+
+# Mes sources :
+
+1. https://fr.wikipedia.org/wiki/Son_(physique)
+2. https://energieplus-lesite.be/mesures/confort7/mesurer-le-niveau-de-bruit/#:~:text=Le%20sonom%C3%A8tre,-La%20mesure%20du&text=Si%20l'on%20souhaite%20obtenir,du%20bruit%2C%20affich%C3%A9%20en%20dB.
+3. https://www.acoustix.be/fr/isolation-acoustique/actualites/quest-ce-qu-un-decibel-echelle-bruit#:~:text=Le%20d%C3%A9cibel%2C%20ou%20dB%2C%20ainsi,et%20aujourd'hui%20en%20pascal.
+4. https://www.amplifon.com/fr/blog/frequences-audibles-oreille-humaine#:~:text=La%20plage%20de%20fr%C3%A9quences%20audibles,diminue%20d'environ%2012%20kHz.
+5. https://fr.wikipedia.org/wiki/Fr%C3%A9quencem%C3%A8tre#:~:text=Un%20fr%C3%A9quencem%C3%A8tre%20est%20un%20instrument,transition%20caract%C3%A9ristique%20du%20signal%20entrant.
+6. https://www.toutsurlisolation.com/quest-ce-que-lechelle-des-decibels#:~:text=de%2060%20%C3%A0%2080%20dB,%2C%20biblioth%C3%A8que%2C%20appartement%20calme).
+7. https://www.wanimo.com/veterinaire/votre-animal-et-vous/comportement/comment-les-animaux-entendent-ils.html#:~:text=Le%20chien%20et%20le%20chat,ultrasons%20inaudibles%20pour%20l'humain.
