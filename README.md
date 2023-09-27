@@ -1,10 +1,14 @@
 # Qu'est-ce qu'un son ?
 
-Le son est une vibration mécanique d'un fluide qui se propage sous forme d'ondes grâce à la déformation du fluide. Le son est mesuré avec ce que l'on appelle des **décibels** ou, plus communément appelés, des **dBs**. L'outil qui est utilisé pour mesurer le son s'appelle un **sonomètre** et cela ressemble à ça : 
+Le son est une vibration mécanique d'un fluide qui se propage sous forme d'ondes grâce à la déformation du fluide. L'intensité du son est mesuré avec ce que l'on appelle des **décibels** ou, plus communément appelés, des **dBs**. L'outil qui est utilisé pour mesurer le son s'appelle un **sonomètre** et cela ressemble à ça : 
 
 ![image](https://github.com/ghita04/Le-son/assets/93718412/c06ec7ff-bef8-4df2-a72e-fa23e5422eb0)
 
-Cet appareil est souvent utilisé par les personnes qui sont étudie **l'acoustique** ou, autrement dit, l'étude du son en tant que tel. 
+Pour ce qui est de la fréquence du son, elle est mesurée en **hertz** et l'outil qui est utilisé pour le faire s'appelle un **fréquencemètre** comme celui-ci :
+
+![image](https://github.com/ghita04/Le-son/assets/93718412/372b31e1-49db-4533-bb84-586b180023cc)
+
+Ces appareils sont souvent utilisés par les personnes qui sont étudie **l'acoustique** ou, autrement dit, l'étude du son en tant que tel. 
 
 # L'échelle des décibels
 
@@ -20,3 +24,4 @@ L'échelle des décibels est une des notions universelles qui permet de mesurer 
 
   ![image](https://github.com/ghita04/Le-son/assets/93718412/1acc7a74-4952-4888-8768-c3ced49ee286)
 
+Les différentes catégories sontr divisées telles un feu rouge. En effet, ce qui est vert est ok. Ce qui est jaune doit être mesuré et on doit être plus prudent. Et, finalement, ce qui est rouge est dangereux et doit être évité. 
