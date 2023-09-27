@@ -32,6 +32,11 @@ Source : [Tout sur l'isolation](https://www.toutsurlisolation.com/quest-ce-que-l
 
 Les différentes catégories sontr divisées telles un feu rouge. En effet, ce qui est vert est ok. Ce qui est jaune doit être mesuré et on doit être plus prudent. Et, finalement, ce qui est rouge est dangereux et doit être évité. 
 
-## Attention ! Les dangers du son
+## Attention ! 
 
 Au delà de la catégorie rouge, il existe des risques encore plus grands que le seuil de la douleur. En effet, lorsque l'intensité du son est au-dessus de 140 dB, une perte d'audition est très fortement probable. 
+
+## Fun facts 
+
+- L'humain peut entendre des sons ayant une fréquence allant de 20 Hz et 20 kHz (20 000 Hz)
+- Les animaux tels que le chat et le chien peuvent entendre des sons ayant une fréquence allant de 20 Hertz et 60 000 Hertz. Ils peuvent donc entendre des ultrasons qui sont inaudibles pour les humains.
