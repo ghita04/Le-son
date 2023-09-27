@@ -41,6 +41,11 @@ Au delà de la catégorie rouge, il existe des risques encore plus grands que le
 - L'humain peut entendre des sons ayant une fréquence allant de 20 Hz et 20 kHz (20 000 Hz)
 - Les animaux tels que le chat et le chien peuvent entendre des sons ayant une fréquence allant de 20 Hertz et 60 000 Hertz. Ils peuvent donc entendre des ultrasons qui sont inaudibles pour les humains.
 
+# Les intentions du projet final 
+
+Nous avons eu comme idée de créer un environnement qui serait à la fois intéractif et immersive. En effet, l'installation sera constitué d'un clavier et de projections. À l'aide d'un clavier, l'utilisateur sera poussé à expérimenter différentes compositions de son goût et le son qui sera créé sera transposé sur les murs autour de lui. Les projections visuelles qui seront émises seront en constant changement dépendemment de la composition de l'utilisateur. En bref, nous avons l'intention de transformer le son qui sera produit en support visuel ce qui rajoutera au projet un effet immersive intéressant. 
+
+
 
 # Mes sources :
 
