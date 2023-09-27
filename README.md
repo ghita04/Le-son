@@ -49,9 +49,9 @@ Nous avons eu comme idée de créer un environnement qui serait à la fois inté
 
 # Mes sources :
 
-1. [Source 1](https://fr.wikipedia.org/wiki/Son_(physique))
-2. [Source 2](https://energieplus-lesite.be/mesures/confort7/mesurer-le-niveau-de-bruit/#:~:text=Le%20sonom%C3%A8tre,-La%20mesure%20du&text=Si%20l'on%20souhaite%20obtenir,du%20bruit%2C%20affich%C3%A9%20en%20dB.)
-3. [Source 3](https://www.acoustix.be/fr/isolation-acoustique/actualites/quest-ce-qu-un-decibel-echelle-bruit#:~:text=Le%20d%C3%A9cibel%2C%20ou%20dB%2C%20ainsi,et%20aujourd'hui%20en%20pascal.)
+- [Source 1](https://fr.wikipedia.org/wiki/Son_(physique))
+- [Source 2](https://energieplus-lesite.be/mesures/confort7/mesurer-le-niveau-de-bruit/#:~:text=Le%20sonom%C3%A8tre,-La%20mesure%20du&text=Si%20l'on%20souhaite%20obtenir,du%20bruit%2C%20affich%C3%A9%20en%20dB.)
+- [Source 3](https://www.acoustix.be/fr/isolation-acoustique/actualites/quest-ce-qu-un-decibel-echelle-bruit#:~:text=Le%20d%C3%A9cibel%2C%20ou%20dB%2C%20ainsi,et%20aujourd'hui%20en%20pascal.)
 
 6. https://www.amplifon.com/fr/blog/frequences-audibles-oreille-humaine#:~:text=La%20plage%20de%20fr%C3%A9quences%20audibles,diminue%20d'environ%2012%20kHz.
 7. https://fr.wikipedia.org/wiki/Fr%C3%A9quencem%C3%A8tre#:~:text=Un%20fr%C3%A9quencem%C3%A8tre%20est%20un%20instrument,transition%20caract%C3%A9ristique%20du%20signal%20entrant.
