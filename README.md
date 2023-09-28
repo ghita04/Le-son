@@ -63,3 +63,4 @@ https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s&ab_channel=JerobeamFenderson%F0
 - [Source 5](https://fr.wikipedia.org/wiki/Fr%C3%A9quencem%C3%A8tre#:~:text=Un%20fr%C3%A9quencem%C3%A8tre%20est%20un%20instrument,transition%20caract%C3%A9ristique%20du%20signal%20entrant.)
 - [Source 6](https://www.toutsurlisolation.com/quest-ce-que-lechelle-des-decibels#:~:text=de%2060%20%C3%A0%2080%20dB,%2C%20biblioth%C3%A8que%2C%20appartement%20calme)
 - [Source 7](https://www.wanimo.com/veterinaire/votre-animal-et-vous/comportement/comment-les-animaux-entendent-ils.html#:~:text=Le%20chien%20et%20le%20chat,ultrasons%20inaudibles%20pour%20l'humain.)
+- [Source 8](https://www.lesoir.be/158157/article/2018-05-22/pourquoi-les-concerts-deviennent-de-plus-en-plus-chers)
