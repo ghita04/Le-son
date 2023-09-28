@@ -52,7 +52,7 @@ Source : [Le soir](https://www.lesoir.be/158157/article/2018-05-22/pourquoi-les-
 
 # La transformation du son en visuel
 
-
+https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s&ab_channel=JerobeamFenderson%F0%9F%93%9F
 
 # Mes sources :
 
