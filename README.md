@@ -49,10 +49,23 @@ Nous avons eu comme idée de créer un environnement qui serait à la fois inté
 
 Source : [Le soir](https://www.lesoir.be/158157/article/2018-05-22/pourquoi-les-concerts-deviennent-de-plus-en-plus-chers)
 
+# Les technologies et locigiels qui seront utilisés :
+
+- Max
+- Un clavier que l'on va créer
+- Oscilloscope
+- Projections et mapping
+- Détection de présence
 
 # La transformation du son en visuel
 
 https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s&ab_channel=JerobeamFenderson%F0%9F%93%9F
+
+# Les principaux défis
+
+- Réussir à convertir le son en visuel
+- Trouver le bon lieu pour l'installation : idéalement, nous aimerions faire l'installation dehors, mais cela risque d'être compliqué à cause de la température
+- Utiliser Max
 
 # Mes sources :
 
