@@ -61,6 +61,7 @@ Source : [Le soir](https://www.lesoir.be/158157/article/2018-05-22/pourquoi-les-
 
 - https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s&ab_channel=JerobeamFenderson%F0%9F%93%9F
 - https://www.youtube.com/watch?v=mpKVUvQVYi0&ab_channel=zoot.
+- https://www.youtube.com/watch?v=4dUmfV1DW_8&ab_channel=JerobeamFenderson%F0%9F%93%9F (Pour les particules **2min25**)
 
 En gros, l'oscilloscope teste et affiche les signaux de tension sous forme d'ondes et représente graphiquement la variation visuelle. Les signaux sont tracés sur un graphique ce qui donne le graphique vert qui dessine les objets. Nous voulons avoir ce même principe dans notre projet à la différence que ce procédé serait déclenché par le clavier.
 
