@@ -59,7 +59,10 @@ Source : [Le soir](https://www.lesoir.be/158157/article/2018-05-22/pourquoi-les-
 
 # La transformation du son en visuel
 
-https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s&ab_channel=JerobeamFenderson%F0%9F%93%9F
+- https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s&ab_channel=JerobeamFenderson%F0%9F%93%9F
+- https://www.youtube.com/watch?v=mpKVUvQVYi0&ab_channel=zoot.
+
+En gros, l'oscilloscope teste et affiche les signaux de tension sous forme d'ondes et représente graphiquement la variation visuelle. Les signaux sont tracés sur un graphique ce qui donne le graphique vert qui dessine les objets. Nous voulons avoir ce même principe dans notre projet à la différence que ce procédé serait déclenché par le clavier.
 
 # Les principaux défis
 
@@ -77,3 +80,4 @@ https://www.youtube.com/watch?v=Nt1PXQ2ah3A&t=1s&ab_channel=JerobeamFenderson%F0
 - [Source 6](https://www.toutsurlisolation.com/quest-ce-que-lechelle-des-decibels#:~:text=de%2060%20%C3%A0%2080%20dB,%2C%20biblioth%C3%A8que%2C%20appartement%20calme)
 - [Source 7](https://www.wanimo.com/veterinaire/votre-animal-et-vous/comportement/comment-les-animaux-entendent-ils.html#:~:text=Le%20chien%20et%20le%20chat,ultrasons%20inaudibles%20pour%20l'humain.)
 - [Source 8](https://www.lesoir.be/158157/article/2018-05-22/pourquoi-les-concerts-deviennent-de-plus-en-plus-chers)
+- [Source 9](https://www.fluke.com/fr/apprendre/blog/oscilloscopes/fonctions-de-base-de-loscilloscope#:~:text=Oscilloscopes%20testent%20et%20affichent%20les,illustre%20les%20variations%20du%20signal.)
